@@ -33,8 +33,8 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/sign-language-to-text-audio.git
-cd sign-language-to-text-audio
+git clone https://github.com/NelliSanjay/sign_Sense_Tech.git
+cd Sign_Sense_Tech
 Install Dependencies
 
 bash
@@ -60,9 +60,6 @@ The text will be converted to speech, providing an audible output of the recogni
 
 Contributing
 We welcome contributions to enhance this project. Feel free to fork the repository, make your changes, and submit a pull request. Please ensure your code adheres to the project's coding standards and includes appropriate tests.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgements
 The OpenCV and TensorFlow communities for their excellent libraries and documentation.
